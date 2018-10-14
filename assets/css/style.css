@@ -1,1 +1,49 @@
 
+.header {
+    background-color: rgb(214, 67, 116);
+    margin-top: 50px;
+}
+
+.body {
+    background-color: rgb(214, 67, 116);
+
+}
+
+.jumbotron {
+    background-image: url(../images/Sara\ Minerva-4.jpg);
+    background-size: cover;
+    height: 60%;
+    -webkit-filter: brightness(100%);
+    color:palevioletred;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family: 'Quicksand', sans-serif;
+    border: 15px solid powderblue;
+    text-align: left;
+    
+}
+
+#music {display:none;      
+    }
+
+
+ .container{
+    background-color: palevioletred;
+    text-align: center;
+    margin-bottom: 20px;
+ }   
+
+ .container2{
+    background-color: aliceblue;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+ }
+    
+
+.form-group {
+    margin: 80px;
+    padding: 70px;
+    width: 80%;
+}
+
